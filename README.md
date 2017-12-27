@@ -2,9 +2,9 @@
 Installation Instructions
 Open a new command prompt window
 Navagate to the git directory
->cd git
+cd git
 Clone the costom keys github reposatory
-> git clone https://github.com/labjack/lj-testing-keyboard-shortcuts.git
+git clone https://github.com/labjack/lj-testing-keyboard-shortcuts.git
 Open file explore to 
 C:\Users\USERNAME\git\labjackTestingKeyboard\
 Right click on windows key and click on run. Then type shell:startup  and press enter
